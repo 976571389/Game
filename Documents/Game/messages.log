@@ -1,0 +1,7 @@
+21996 [main] ERROR game.MainApp - This is an ERROR message
+21998 [main] WARN  game.MainApp - This is a WARNING message
+21999 [main] INFO  game.MainApp - This is an INFO message
+21999 [main] DEBUG game.MainApp - This is a DEBUG message
+21999 [main] TRACE game.MainApp - This is a TRACE message
+21999 [main] INFO  game.MainApp - User's name is Administrator
+22000 [main] ERROR game.MainApp - This is an ERROR message that contains 'FAIL'
